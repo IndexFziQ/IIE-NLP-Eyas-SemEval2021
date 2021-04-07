@@ -42,17 +42,12 @@ We implemented our System based on HuggingFace [transformers](https://github.com
 Please cite our paper using the following bibtex:
 
 ```
-@misc{xie2021iienlpeyas,
-    title={IIE-NLP-Eyas at SemEval-2021 Task 4: Enhancing PLM for ReCAM with Special Tokens, Re-Ranking, Siamese Encoders and Back Translation},
-    author={Yuqiang Xie and Luxi Xing and Wei Peng and Yue Hu},
-    year={2021},
-    eprint={2102.12777},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@inproceedings{xie2021iienlpeyas,
+   title={IIE-NLP-Eyas at SemEval-2021 Task 4: Enhancing PLM for ReCAM with Special Tokens, Re-Ranking, Siamese Encoders and Back Translation},
+   author={Yuqiang Xie and Luxi Xing and Wei Peng and Yue Hu},
+   booktitle={Proceedings of the 15th International Workshop on Semantic Evaluation (SemEval-2021)},
+   year={2021},
 }
 ```
 
-#### License
-
-MIT
 
